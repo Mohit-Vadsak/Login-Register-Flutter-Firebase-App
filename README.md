@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-#Firebase configuration (Firebase AUthentication)
+#Firebase configuration (Firebase Authentication)
 
 You need to register the project with your own Firebase account.
 -Use com.flutter.logindemo as your bundle / application ID when generating the Firebase project.
